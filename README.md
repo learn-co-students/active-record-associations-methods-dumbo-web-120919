@@ -166,7 +166,7 @@ specifically looking for the first song, we just have to chain on a `first`.
 class Artist
   def get_first_song
     self.songs.first
-  end
+  end 
 end
 ```
 
